@@ -3,14 +3,16 @@
 </p>
 
 
-Hey! I'm Strife — I work at [Buape Studios](https://github.com/buape), spend far too much time online, and somehow keep ending up involved in things that eventually find their way onto GitHub.
+Hey! I'm Strife, Founder of Buape Studios, a dev studio focused on quality applications and empowering next-gen developers
+
+I spend far too much time online, and somehow keep ending up involved in things that eventually find their way onto GitHub.
 
 I'm interested in communities, games, technology, and the people behind them. I'm not a developer, but I like being around the people who build cool things, helping turn ideas into something people actually enjoy using, and occasionally pretending I know what a pull request does.
 
 # About
 
 <p align="center">
-🏢 Working with <a href="https://github.com/buape">Buape</a><br>
+🏢 Working at <a href="https://github.com/buape">Buape</a><br>
 💬 Usually somewhere on Discord<br>
 🎮 Interested in games and online communities<br>
 🧠 Always learning something new<br>
