@@ -35,7 +35,7 @@ I'm interested in communities, games, technology, and the people behind them. I'
 
 # Projects
 
-<a href="https://kiai.buape.com/"> <img src="https://img.shields.io/badge/Kiai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kiai"/> </a> <a href="https://jt-99.buape.com/"> <img src="https://img.shields.io/badge/JT--99-181717?style=for-the-badge&logo=discord&logoColor=white" alt="JT-99"/> </a> <a href="https://www.buape.com/"> <img src="https://img.shields.io/badge/Buape-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="Buape"/> </a>
+<a href="https://www.kiai.app/"> <img src="https://img.shields.io/badge/Kiai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kiai"/> </a> <a href="https://jt-99.buape.com/"> <img src="https://img.shields.io/badge/JT--99-181717?style=for-the-badge&logo=discord&logoColor=white" alt="JT-99"/> </a> <a href="https://www.buape.com/"> <img src="https://img.shields.io/badge/Buape-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="Buape"/> </a>
 
 <div align="center">
 
