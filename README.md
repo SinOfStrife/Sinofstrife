@@ -78,5 +78,5 @@ I'm interested in communities, games, technology, and the people behind them. I'
 <p align="center">I'm not a developer. I just know enough to be dangerous.</p>
 
 <div align="center">
-  <img src="https://cataas.com/cat/gif" alt="Random Cat GIF" width="300" />
+  <img src="https://cataas.com/cat/gif?timestamp=1" alt="Random Cat GIF" width="300" />
 </div>
