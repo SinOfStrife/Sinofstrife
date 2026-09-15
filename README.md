@@ -3,7 +3,7 @@
 </p>
 
 
-Hey! I'm Strife, Founder of Buape Studios, a dev studio focused on quality applications and empowering next-gen developers
+Hey! I'm Strife, Founder of [Buape Studio](https://buape.com/), a dev studio focused on quality applications and empowering next-gen developers.
 
 I spend far too much time online, and somehow keep ending up involved in things that eventually find their way onto GitHub.
 
