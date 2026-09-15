@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/-%20-5BCEFA?style=for-the-badge&logoWidth=0"/><img src="https://img.shields.io/badge/-%20-F5ABB9?style=for-the-badge&logoWidth=0"/><img src="https://img.shields.io/badge/-%20-FFFFFF?style=for-the-badge&logoWidth=0"/><img src="https://img.shields.io/badge/-%20-F5ABB9?style=for-the-badge&logoWidth=0"/><img src="https://img.shields.io/badge/-%20-5BCEFA?style=for-the-badge&logoWidth=0"/>
 </p>
 
+---
 
 Hey! I'm Strife, Founder of [Buape Studio](https://buape.com/), a dev studio focused on quality applications and empowering next-gen developers.
 
@@ -9,6 +10,7 @@ I spend far too much time online, and somehow keep ending up involved in things 
 
 I'm interested in communities, games, technology, and the people behind them. I'm not a developer, but I like being around the people who build cool things, helping turn ideas into something people actually enjoy using, and occasionally pretending I know what a pull request does.
 
+---
 # About
 
 <p align="center">
@@ -33,13 +35,19 @@ I'm interested in communities, games, technology, and the people behind them. I'
   </a>
 </p>
 
-
+---
 
 # Projects
 
-<a href="https://www.kiai.app/"> <img src="https://img.shields.io/badge/Kiai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kiai"/> </a> <a href="https://jt-99.buape.com/"> <img src="https://img.shields.io/badge/JT--99-181717?style=for-the-badge&logo=discord&logoColor=white" alt="JT-99"/> </a> <a href="https://www.buape.com/"> <img src="https://img.shields.io/badge/Buape-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="Buape"/> </a>
-
 <div align="center">
+  <a href="https://carbon.buape.com/"> <img src="https://img.shields.io/badge/Carbon-2B2D42?style=for-the-badge&logo=discord&logoColor=white" alt="Carbon"/> </a>
+  <a href="https://www.kiai.app/"> <img src="https://img.shields.io/badge/Kiai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kiai"/> </a>
+  <br/>
+  <a href="https://jt-99.buape.com/"> <img src="https://img.shields.io/badge/JT--99-14B8A6?style=for-the-badge&logo=discord&logoColor=black&labelColor=14B8A6&color=14B8A6" alt="JT-99"/> </a>
+  <a href="https://www.buape.com/"> <img src="https://img.shields.io/badge/Buape-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="Buape"/> </a>
+</div>
+
+---
 
 ### Discord Presence
 <p align="center">
@@ -48,12 +56,14 @@ I'm interested in communities, games, technology, and the people behind them. I'
   </a>
 </p>
 
+---
 
 ### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-api.vercel.app/?username=SinOfStrife&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
+---
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SinOfStrife&show_icons=true&theme=dark&hide_border=true)
 
@@ -67,6 +77,6 @@ I'm interested in communities, games, technology, and the people behind them. I'
 
 <p align="center">I'm not a developer. I just know enough to be dangerous.</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cat typing"/>
-</p>
+<div align="center">
+  <img src="https://cataas.com/cat/gif" alt="Random Cat GIF" width="300" />
+</div>
