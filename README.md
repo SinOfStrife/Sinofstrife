@@ -30,9 +30,6 @@ I'm interested in communities, games, technology, and the people behind them. I'
   <a href="https://discord.com/users/957289026195435520">
     <img src="https://img.shields.io/badge/Discord-Corvus__bane-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://modrinth.com/user/Associationgreedy">
-    <img src="https://img.shields.io/badge/Modrinth-Associationgreedy-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth User" />
-  </a>
 </p>
 
 ---
